@@ -20,7 +20,7 @@ Link to This Project https://ancient-beyond-12717.herokuapp.com/
 - Add/Remove your Todays's Task in one click
 
 
-# Screenshots
+# How to Add/Delete your task
 
 - Click on '+'
 
